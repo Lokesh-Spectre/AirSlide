@@ -2,3 +2,4 @@ https://www.computervision.zone/courses/hand-gesture-presentation
 https://github.com/Vibhugupta10616/Hand-Gesture-Presentation-System
 https://github.com/ranizouaoui/PPT-Presentation-controlled-by-hand-gesture
 https://www.youtube.com/watch?v=pG4sUNDOZFg
+https://www.instructables.com/How-to-Train-Custom-Hand-Gestures-Using-Mediapipe/
