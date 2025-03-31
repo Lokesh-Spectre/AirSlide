@@ -1,2 +1,6 @@
 *.jpg
 temp
+waypoint_model
+*.pkl
+*.h5
+*.npy
